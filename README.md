@@ -52,4 +52,4 @@ Email: `test@gmail.com`<br>
 Password: `123456`
 
 ## Screenshot
-![alt text](<localhost_3000_(iPhone SE).png>)
+<img src="localhost_3000_(iPhone SE).png" width="300"/>
