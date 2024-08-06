@@ -3,7 +3,7 @@
 This project serves the purpose of completing a technical test for EBUDDY PTE. LTD.
 
 ## Backend Application
-You can find the backend application related to this repository [here](https://github.com/habibsyuhada/backend-repo).
+You can find the backend application related to this repository [here](https://github.com/habibsyuhada/backend-user-login-profile).
 
 
 ## Table of Contents
